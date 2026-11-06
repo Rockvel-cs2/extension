@@ -1,0 +1,1130 @@
+{
+  "api_key": {
+    "key": "rv_key",
+    "created_at": "2026-11-01T12:00:00Z"
+  },
+  "auto_buy": {
+    "id": "auto",
+    "item_slug": "ak-47-redline",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "image_url": "https://community.steamstatic.com/icon",
+    "rarity": "Classified",
+    "max_price_cents": 1000,
+    "quantity": 3,
+    "bought": 1,
+    "filter": {
+      "phase": "Phase 2",
+      "float_min": 0.06,
+      "float_max": 0.8,
+      "paint_seeds": [
+        661
+      ],
+      "stickers": [
+        {
+          "name": "Sticker | Crown",
+          "slot": 1
+        }
+      ],
+      "charm": "Butane Buddy"
+    },
+    "created_at": "2026-11-01T12:00:00Z"
+  },
+  "balance": {
+    "available_cents": 1000,
+    "held_cents": 1000
+  },
+  "bargain": {
+    "id": "bargain",
+    "role": "buyer",
+    "status": "countered",
+    "lot_id": "lot",
+    "item_slug": "ak-47-redline",
+    "item": {
+      "asset_id": "100",
+      "name": "AK-47 | Redline (Field-Tested)",
+      "market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "image_url": "https://community.steamstatic.com/icon",
+      "kind": "weapon",
+      "rarity": "Classified",
+      "exterior": "FT",
+      "stattrak": true,
+      "souvenir": true,
+      "marketable": true,
+      "float": 0.123,
+      "paint_seed": 661,
+      "kill_count": 5,
+      "paint_index": 282,
+      "def_index": 7,
+      "phase": "Phase 2",
+      "name_tag": "Mine",
+      "inspect_link": "steam://inspect",
+      "highlight_url": "https://example.test/moment.webm",
+      "stickers": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "keychains": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "tags": [
+        {
+          "category": "Collection",
+          "name": "The Dust 2 Collection"
+        }
+      ],
+      "notes": [
+        "Note"
+      ]
+    },
+    "lot_price_cents": 1000,
+    "price_cents": 900,
+    "counter_cents": 950,
+    "order_id": "order",
+    "actions": [
+      "accept"
+    ],
+    "created_at": "2026-11-01T12:00:00Z",
+    "expires_at": "2026-11-01T12:00:00Z"
+  },
+  "bargain_statuses": [
+    "open",
+    "countered",
+    "accepted",
+    "declined",
+    "cancelled",
+    "expired"
+  ],
+  "catalog_item": {
+    "slug": "ak-47-redline",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "skin": "AK-47 | Redline",
+    "category": "rifles",
+    "rarity": "Classified",
+    "exterior": "FT",
+    "stattrak": true,
+    "souvenir": true,
+    "image_url": "https://community.steamstatic.com/icon",
+    "lot_count": 2,
+    "min_price_cents": 1000,
+    "min_float": 0.06,
+    "max_float": 0.8,
+    "phases": [
+      {
+        "name": "Phase 2",
+        "image_url": "https://community.steamstatic.com/icon"
+      }
+    ],
+    "variants": [
+      {
+        "slug": "ak-47-redline",
+        "name": "AK-47 | Redline (Field-Tested)",
+        "skin": "AK-47 | Redline",
+        "category": "rifles",
+        "rarity": "Classified",
+        "exterior": "FT",
+        "stattrak": true,
+        "souvenir": true,
+        "image_url": "https://community.steamstatic.com/icon",
+        "lot_count": 2,
+        "min_price_cents": 1000
+      }
+    ]
+  },
+  "cheapest_lot_cents": 3,
+  "deals": {
+    "orders": [
+      {
+        "id": "019a5b3c-1234-7abc-8def-0123456789ab",
+        "number": "456789ab",
+        "role": "seller",
+        "status": "protected",
+        "reason": "buyer_dispute",
+        "item_slug": "ak-47-redline",
+        "item": {
+          "asset_id": "100",
+          "name": "AK-47 | Redline (Field-Tested)",
+          "market_hash_name": "AK-47 | Redline (Field-Tested)",
+          "image_url": "https://community.steamstatic.com/icon",
+          "kind": "weapon",
+          "rarity": "Classified",
+          "exterior": "FT",
+          "stattrak": true,
+          "souvenir": true,
+          "marketable": true,
+          "float": 0.123,
+          "paint_seed": 661,
+          "kill_count": 5,
+          "paint_index": 282,
+          "def_index": 7,
+          "phase": "Phase 2",
+          "name_tag": "Mine",
+          "inspect_link": "steam://inspect",
+          "highlight_url": "https://example.test/moment.webm",
+          "stickers": [
+            {
+              "id": 1,
+              "name": "Sticker | Crown",
+              "image_url": "https://community.steamstatic.com/sticker",
+              "slot": 1,
+              "wear": 0.5,
+              "scale": 1,
+              "rotation": 2,
+              "offset_x": 0.1,
+              "offset_y": 0.2,
+              "offset_z": 0.3,
+              "tint_id": 4,
+              "pattern": 5,
+              "highlight": 6
+            }
+          ],
+          "keychains": [
+            {
+              "id": 1,
+              "name": "Sticker | Crown",
+              "image_url": "https://community.steamstatic.com/sticker",
+              "slot": 1,
+              "wear": 0.5,
+              "scale": 1,
+              "rotation": 2,
+              "offset_x": 0.1,
+              "offset_y": 0.2,
+              "offset_z": 0.3,
+              "tint_id": 4,
+              "pattern": 5,
+              "highlight": 6
+            }
+          ],
+          "tags": [
+            {
+              "category": "Collection",
+              "name": "The Dust 2 Collection"
+            }
+          ],
+          "notes": [
+            "Note"
+          ]
+        },
+        "price_cents": 1000,
+        "fee_cents": 15,
+        "offer_id": "555",
+        "group": "555",
+        "actions": [
+          "dispute"
+        ],
+        "partner": {
+          "steam_id": "76561198000000002",
+          "name": "Buyer",
+          "avatar_url": "https://avatars.steamstatic.com/b.jpg",
+          "member_since": "2026-11-01T12:00:00Z",
+          "level": 23,
+          "service_years": 5,
+          "service_xp": 250
+        },
+        "paid_at": "2026-11-01T12:00:00Z",
+        "sent_at": "2026-11-01T12:00:00Z",
+        "accepted_at": "2026-11-01T12:00:00Z",
+        "finished_at": "2026-11-01T12:00:00Z",
+        "deadline_at": "2026-11-01T12:00:00Z",
+        "buyer_cancels_at": "2026-11-01T12:00:00Z"
+      }
+    ],
+    "more": true
+  },
+  "demand": {
+    "price_cents": 1000,
+    "quantity": 2
+  },
+  "discount": {
+    "max_discount": 10
+  },
+  "fees_by_price_cents": {
+    "100": 2,
+    "10000": 150,
+    "100000000": 1500000,
+    "10001": 151,
+    "133": 2,
+    "134": 3,
+    "2333": 35,
+    "3": 1,
+    "66": 1,
+    "67": 2
+  },
+  "inventory": {
+    "items": [
+      {
+        "asset_id": "100",
+        "name": "AK-47 | Redline (Field-Tested)",
+        "market_hash_name": "AK-47 | Redline (Field-Tested)",
+        "image_url": "https://community.steamstatic.com/icon",
+        "kind": "weapon",
+        "rarity": "Classified",
+        "exterior": "FT",
+        "stattrak": true,
+        "souvenir": true,
+        "marketable": true,
+        "float": 0.123,
+        "paint_seed": 661,
+        "kill_count": 5,
+        "paint_index": 282,
+        "def_index": 7,
+        "phase": "Phase 2",
+        "name_tag": "Mine",
+        "inspect_link": "steam://inspect",
+        "highlight_url": "https://example.test/moment.webm",
+        "stickers": [
+          {
+            "id": 1,
+            "name": "Sticker | Crown",
+            "image_url": "https://community.steamstatic.com/sticker",
+            "slot": 1,
+            "wear": 0.5,
+            "scale": 1,
+            "rotation": 2,
+            "offset_x": 0.1,
+            "offset_y": 0.2,
+            "offset_z": 0.3,
+            "tint_id": 4,
+            "pattern": 5,
+            "highlight": 6
+          }
+        ],
+        "keychains": [
+          {
+            "id": 1,
+            "name": "Sticker | Crown",
+            "image_url": "https://community.steamstatic.com/sticker",
+            "slot": 1,
+            "wear": 0.5,
+            "scale": 1,
+            "rotation": 2,
+            "offset_x": 0.1,
+            "offset_y": 0.2,
+            "offset_z": 0.3,
+            "tint_id": 4,
+            "pattern": 5,
+            "highlight": 6
+          }
+        ],
+        "tags": [
+          {
+            "category": "Collection",
+            "name": "The Dust 2 Collection"
+          }
+        ],
+        "notes": [
+          "Note"
+        ]
+      }
+    ],
+    "hidden_count": 1,
+    "fetched_at": "2026-11-01T12:00:00Z",
+    "stale": true
+  },
+  "item": {
+    "asset_id": "100",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "market_hash_name": "AK-47 | Redline (Field-Tested)",
+    "image_url": "https://community.steamstatic.com/icon",
+    "kind": "weapon",
+    "rarity": "Classified",
+    "exterior": "FT",
+    "stattrak": true,
+    "souvenir": true,
+    "marketable": true,
+    "float": 0.123,
+    "paint_seed": 661,
+    "kill_count": 5,
+    "paint_index": 282,
+    "def_index": 7,
+    "phase": "Phase 2",
+    "name_tag": "Mine",
+    "inspect_link": "steam://inspect",
+    "highlight_url": "https://example.test/moment.webm",
+    "stickers": [
+      {
+        "id": 1,
+        "name": "Sticker | Crown",
+        "image_url": "https://community.steamstatic.com/sticker",
+        "slot": 1,
+        "wear": 0.5,
+        "scale": 1,
+        "rotation": 2,
+        "offset_x": 0.1,
+        "offset_y": 0.2,
+        "offset_z": 0.3,
+        "tint_id": 4,
+        "pattern": 5,
+        "highlight": 6
+      }
+    ],
+    "keychains": [
+      {
+        "id": 1,
+        "name": "Sticker | Crown",
+        "image_url": "https://community.steamstatic.com/sticker",
+        "slot": 1,
+        "wear": 0.5,
+        "scale": 1,
+        "rotation": 2,
+        "offset_x": 0.1,
+        "offset_y": 0.2,
+        "offset_z": 0.3,
+        "tint_id": 4,
+        "pattern": 5,
+        "highlight": 6
+      }
+    ],
+    "tags": [
+      {
+        "category": "Collection",
+        "name": "The Dust 2 Collection"
+      }
+    ],
+    "notes": [
+      "Note"
+    ]
+  },
+  "last_paint_seed": 1000,
+  "longest_description": 32,
+  "lot": {
+    "id": "lot",
+    "price_cents": 1000,
+    "float": 0.123,
+    "paint_seed": 661,
+    "phase": "Phase 2",
+    "image_url": "https://community.steamstatic.com/icon",
+    "stickers": [
+      {
+        "id": 1,
+        "name": "Sticker | Crown",
+        "image_url": "https://community.steamstatic.com/sticker",
+        "slot": 1,
+        "wear": 0.5,
+        "scale": 1,
+        "rotation": 2,
+        "offset_x": 0.1,
+        "offset_y": 0.2,
+        "offset_z": 0.3,
+        "tint_id": 4,
+        "pattern": 5,
+        "highlight": 6
+      }
+    ],
+    "description": "Low float",
+    "max_discount": 10,
+    "seller": {
+      "steam_id": "76561198000000001",
+      "name": "Gabe",
+      "avatar_url": "https://avatars.steamstatic.com/a.jpg"
+    },
+    "own": true,
+    "listed_at": "2026-11-01T12:00:00Z"
+  },
+  "lot_page": {
+    "lots": [
+      {
+        "id": "lot",
+        "price_cents": 1000,
+        "float": 0.123,
+        "paint_seed": 661,
+        "phase": "Phase 2",
+        "image_url": "https://community.steamstatic.com/icon",
+        "stickers": [
+          {
+            "id": 1,
+            "name": "Sticker | Crown",
+            "image_url": "https://community.steamstatic.com/sticker",
+            "slot": 1,
+            "wear": 0.5,
+            "scale": 1,
+            "rotation": 2,
+            "offset_x": 0.1,
+            "offset_y": 0.2,
+            "offset_z": 0.3,
+            "tint_id": 4,
+            "pattern": 5,
+            "highlight": 6
+          }
+        ],
+        "description": "Low float",
+        "max_discount": 10,
+        "seller": {
+          "steam_id": "76561198000000001",
+          "name": "Gabe",
+          "avatar_url": "https://avatars.steamstatic.com/a.jpg"
+        },
+        "own": true,
+        "listed_at": "2026-11-01T12:00:00Z"
+      }
+    ],
+    "total": 1,
+    "page_size": 30
+  },
+  "lowest_offers_cents": {
+    "10/0": 10,
+    "10/1": 10,
+    "10/10": 9,
+    "10/33": 7,
+    "10/50": 5,
+    "1000/0": 1000,
+    "1000/1": 990,
+    "1000/10": 900,
+    "1000/33": 670,
+    "1000/50": 500,
+    "100000000/0": 100000000,
+    "100000000/1": 99000000,
+    "100000000/10": 90000000,
+    "100000000/33": 67000000,
+    "100000000/50": 50000000,
+    "3/0": 3,
+    "3/1": 3,
+    "3/10": 3,
+    "3/33": 3,
+    "3/50": 3,
+    "3250/0": 3250,
+    "3250/1": 3218,
+    "3250/10": 2925,
+    "3250/33": 2178,
+    "3250/50": 1625,
+    "999/0": 999,
+    "999/1": 990,
+    "999/10": 900,
+    "999/33": 670,
+    "999/50": 500
+  },
+  "market_item": {
+    "slug": "ak-47-redline",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "skin": "AK-47 | Redline",
+    "category": "rifles",
+    "rarity": "Classified",
+    "exterior": "FT",
+    "stattrak": true,
+    "souvenir": true,
+    "image_url": "https://community.steamstatic.com/icon",
+    "lot_count": 2,
+    "min_price_cents": 1000
+  },
+  "market_page": {
+    "items": [
+      {
+        "slug": "ak-47-redline",
+        "name": "AK-47 | Redline (Field-Tested)",
+        "skin": "AK-47 | Redline",
+        "category": "rifles",
+        "rarity": "Classified",
+        "exterior": "FT",
+        "stattrak": true,
+        "souvenir": true,
+        "image_url": "https://community.steamstatic.com/icon",
+        "lot_count": 2,
+        "min_price_cents": 1000
+      }
+    ],
+    "total": 1,
+    "page_size": 60
+  },
+  "me": {
+    "user": {
+      "steam_id": "76561198000000001",
+      "name": "Gabe",
+      "avatar_url": "https://avatars.steamstatic.com/a.jpg",
+      "trade_url": "https://steamcommunity.com/tradeoffer/new/?partner=1\u0026token=a"
+    },
+    "balance": {
+      "available_cents": 1000,
+      "held_cents": 1000
+    }
+  },
+  "money": {
+    "testnet": true,
+    "withdrawable_cents": 1000,
+    "available_cents": 1000,
+    "minimum_withdrawal_cents": 100,
+    "networks": [
+      {
+        "network": "tron",
+        "coins": [
+          "USDT"
+        ],
+        "address": "TKCwtUbnUEtoJzJcsdTAewLdprCa8yKYXz",
+        "minimum_deposit_cents": 100,
+        "fee_cents": 100,
+        "last_address": "TVF2Mp9QY7FEGTnr3DBpFLobA6jguHyMvi"
+      },
+      {
+        "network": "polygon",
+        "coins": [
+          "USDC"
+        ],
+        "address": "0x9858EfFD232B4033E47d90003D41EC34EcaEda94",
+        "minimum_deposit_cents": 100,
+        "fee_cents": 10,
+        "last_address": "0xfB6916095ca1df60bB79Ce92cE3Ea74c37c5d359"
+      }
+    ],
+    "refundable": [
+      {
+        "network": "polygon",
+        "coin": "USDC",
+        "address": "0x5aAeb6053F3E94C9b9A09f33669435E7Ef1BeAed",
+        "cents": 1000
+      }
+    ],
+    "pending": [
+      {
+        "network": "tron",
+        "coin": "USDT",
+        "tx_hash": "7802bd81266c1ed9e4128b764bae97b415420b2c74ad9bf65cb4c73e70a4e738",
+        "amount_cents": 50,
+        "status": "waiting",
+        "seen_at": "2026-11-01T12:00:00Z"
+      }
+    ]
+  },
+  "most_discount": 50,
+  "most_in_one_offer": 100,
+  "most_lots_at_once": 100,
+  "most_paint_seeds": 25,
+  "most_requests_per_minute": 300,
+  "most_stickers": 5,
+  "notice_kinds": [
+    "sold",
+    "unanswered",
+    "settled",
+    "reversed",
+    "stopped",
+    "sent",
+    "refunded",
+    "auto_bought",
+    "bargain",
+    "countered",
+    "bargained"
+  ],
+  "notices": {
+    "notices": [
+      {
+        "id": "notice",
+        "kind": "sold",
+        "order_id": "order",
+        "role": "seller",
+        "item_name": "AK-47 | Redline (Field-Tested)",
+        "items": 2,
+        "amount_cents": 1000,
+        "created_at": "2026-11-01T12:00:00Z",
+        "read": true
+      }
+    ],
+    "unread": 1
+  },
+  "order": {
+    "id": "019a5b3c-1234-7abc-8def-0123456789ab",
+    "number": "456789ab",
+    "role": "seller",
+    "status": "protected",
+    "reason": "buyer_dispute",
+    "item_slug": "ak-47-redline",
+    "item": {
+      "asset_id": "100",
+      "name": "AK-47 | Redline (Field-Tested)",
+      "market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "image_url": "https://community.steamstatic.com/icon",
+      "kind": "weapon",
+      "rarity": "Classified",
+      "exterior": "FT",
+      "stattrak": true,
+      "souvenir": true,
+      "marketable": true,
+      "float": 0.123,
+      "paint_seed": 661,
+      "kill_count": 5,
+      "paint_index": 282,
+      "def_index": 7,
+      "phase": "Phase 2",
+      "name_tag": "Mine",
+      "inspect_link": "steam://inspect",
+      "highlight_url": "https://example.test/moment.webm",
+      "stickers": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "keychains": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "tags": [
+        {
+          "category": "Collection",
+          "name": "The Dust 2 Collection"
+        }
+      ],
+      "notes": [
+        "Note"
+      ]
+    },
+    "price_cents": 1000,
+    "fee_cents": 15,
+    "offer_id": "555",
+    "group": "555",
+    "actions": [
+      "dispute"
+    ],
+    "partner": {
+      "steam_id": "76561198000000002",
+      "name": "Buyer",
+      "avatar_url": "https://avatars.steamstatic.com/b.jpg",
+      "member_since": "2026-11-01T12:00:00Z",
+      "level": 23,
+      "service_years": 5,
+      "service_xp": 250
+    },
+    "paid_at": "2026-11-01T12:00:00Z",
+    "sent_at": "2026-11-01T12:00:00Z",
+    "accepted_at": "2026-11-01T12:00:00Z",
+    "finished_at": "2026-11-01T12:00:00Z",
+    "deadline_at": "2026-11-01T12:00:00Z",
+    "buyer_cancels_at": "2026-11-01T12:00:00Z"
+  },
+  "order_statuses": [
+    "paid",
+    "sent",
+    "protected",
+    "settled",
+    "cancelled",
+    "failed",
+    "rolled_back",
+    "disputed"
+  ],
+  "own_lot": {
+    "id": "lot",
+    "asset_id": "100",
+    "item_slug": "ak-47-redline",
+    "item": {
+      "asset_id": "100",
+      "name": "AK-47 | Redline (Field-Tested)",
+      "market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "image_url": "https://community.steamstatic.com/icon",
+      "kind": "weapon",
+      "rarity": "Classified",
+      "exterior": "FT",
+      "stattrak": true,
+      "souvenir": true,
+      "marketable": true,
+      "float": 0.123,
+      "paint_seed": 661,
+      "kill_count": 5,
+      "paint_index": 282,
+      "def_index": 7,
+      "phase": "Phase 2",
+      "name_tag": "Mine",
+      "inspect_link": "steam://inspect",
+      "highlight_url": "https://example.test/moment.webm",
+      "stickers": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "keychains": [
+        {
+          "id": 1,
+          "name": "Sticker | Crown",
+          "image_url": "https://community.steamstatic.com/sticker",
+          "slot": 1,
+          "wear": 0.5,
+          "scale": 1,
+          "rotation": 2,
+          "offset_x": 0.1,
+          "offset_y": 0.2,
+          "offset_z": 0.3,
+          "tint_id": 4,
+          "pattern": 5,
+          "highlight": 6
+        }
+      ],
+      "tags": [
+        {
+          "category": "Collection",
+          "name": "The Dust 2 Collection"
+        }
+      ],
+      "notes": [
+        "Note"
+      ]
+    },
+    "price_cents": 1000,
+    "description": "Low float",
+    "max_discount": 10,
+    "listed_at": "2026-11-01T12:00:00Z"
+  },
+  "payment_statuses": [
+    "waiting",
+    "quarantined",
+    "credited",
+    "requested",
+    "signed",
+    "sent",
+    "confirmed",
+    "failed"
+  ],
+  "payments": {
+    "payments": [
+      {
+        "id": "withdrawal",
+        "kind": "withdrawal",
+        "network": "tron",
+        "coin": "USDT",
+        "status": "requested",
+        "amount_cents": 1000,
+        "fee_cents": 100,
+        "address": "TVF2Mp9QY7FEGTnr3DBpFLobA6jguHyMvi",
+        "tx_hash": "f06bd58c693d62fadcd6c84defef1b6038409167f711b3b988eb1d2ca8abe659",
+        "cancellable": true,
+        "at": "2026-11-01T12:00:00Z"
+      }
+    ],
+    "explorers": {
+      "polygon": "https://amoy.polygonscan.com/tx/0x",
+      "tron": "https://nile.tronscan.org/#/transaction/"
+    }
+  },
+  "quote": {
+    "prices_cents": [
+      1000
+    ],
+    "more": true,
+    "lowest_cents": 1000,
+    "highest_cents": 1000
+  },
+  "refusals": [
+    "bad_lot",
+    "bad_description",
+    "too_many_lots",
+    "banned",
+    "already_listed",
+    "lot_gone",
+    "price_changed",
+    "own_lot",
+    "not_enough_money",
+    "no_such_order",
+    "not_your_order",
+    "too_early",
+    "order_moved_on",
+    "no_trade_url",
+    "bad_trade_url",
+    "item_gone",
+    "item_unknown",
+    "one_buyer_per_offer",
+    "none_match",
+    "too_many_auto_buys",
+    "no_such_auto_buy",
+    "bad_bargain",
+    "no_such_bargain",
+    "too_many_bargains",
+    "buyer_cannot_pay",
+    "bad_discount",
+    "bad_address",
+    "too_little",
+    "no_such_withdrawal",
+    "already_signed",
+    "not_refundable",
+    "unknown_coin"
+  ],
+  "seller_fee_per_mille": 15,
+  "seller_report": {
+    "offers": [
+      {
+        "offer_id": "555",
+        "state": 2,
+        "given_asset_ids": [
+          "100"
+        ],
+        "received_asset_ids": [
+          "7"
+        ],
+        "other_steam_id": "76561198000000002",
+        "time_created": 1793534400
+      }
+    ],
+    "trades": [
+      {
+        "trade_id": "9",
+        "status": 3,
+        "given_asset_ids": [
+          "100"
+        ],
+        "other_steam_id": "76561198000000002",
+        "time_init": 1793534400
+      }
+    ],
+    "problem": "steam_unavailable"
+  },
+  "stall": {
+    "public": true,
+    "lots": [
+      {
+        "id": "lot",
+        "asset_id": "100",
+        "item_slug": "ak-47-redline",
+        "item": {
+          "asset_id": "100",
+          "name": "AK-47 | Redline (Field-Tested)",
+          "market_hash_name": "AK-47 | Redline (Field-Tested)",
+          "image_url": "https://community.steamstatic.com/icon",
+          "kind": "weapon",
+          "rarity": "Classified",
+          "exterior": "FT",
+          "stattrak": true,
+          "souvenir": true,
+          "marketable": true,
+          "float": 0.123,
+          "paint_seed": 661,
+          "kill_count": 5,
+          "paint_index": 282,
+          "def_index": 7,
+          "phase": "Phase 2",
+          "name_tag": "Mine",
+          "inspect_link": "steam://inspect",
+          "highlight_url": "https://example.test/moment.webm",
+          "stickers": [
+            {
+              "id": 1,
+              "name": "Sticker | Crown",
+              "image_url": "https://community.steamstatic.com/sticker",
+              "slot": 1,
+              "wear": 0.5,
+              "scale": 1,
+              "rotation": 2,
+              "offset_x": 0.1,
+              "offset_y": 0.2,
+              "offset_z": 0.3,
+              "tint_id": 4,
+              "pattern": 5,
+              "highlight": 6
+            }
+          ],
+          "keychains": [
+            {
+              "id": 1,
+              "name": "Sticker | Crown",
+              "image_url": "https://community.steamstatic.com/sticker",
+              "slot": 1,
+              "wear": 0.5,
+              "scale": 1,
+              "rotation": 2,
+              "offset_x": 0.1,
+              "offset_y": 0.2,
+              "offset_z": 0.3,
+              "tint_id": 4,
+              "pattern": 5,
+              "highlight": 6
+            }
+          ],
+          "tags": [
+            {
+              "category": "Collection",
+              "name": "The Dust 2 Collection"
+            }
+          ],
+          "notes": [
+            "Note"
+          ]
+        },
+        "price_cents": 1000,
+        "description": "Low float",
+        "max_discount": 10,
+        "listed_at": "2026-11-01T12:00:00Z"
+      }
+    ],
+    "kinds": {
+      "weapon": 1
+    },
+    "total": 1,
+    "page_size": 60
+  },
+  "stall_lot": {
+    "id": "lot",
+    "price_cents": 1000,
+    "float": 0.123,
+    "paint_seed": 661,
+    "phase": "Phase 2",
+    "image_url": "https://community.steamstatic.com/icon",
+    "stickers": [
+      {
+        "id": 1,
+        "name": "Sticker | Crown",
+        "image_url": "https://community.steamstatic.com/sticker",
+        "slot": 1,
+        "wear": 0.5,
+        "scale": 1,
+        "rotation": 2,
+        "offset_x": 0.1,
+        "offset_y": 0.2,
+        "offset_z": 0.3,
+        "tint_id": 4,
+        "pattern": 5,
+        "highlight": 6
+      }
+    ],
+    "description": "Low float",
+    "max_discount": 10,
+    "seller": {
+      "steam_id": "76561198000000001",
+      "name": "Gabe",
+      "avatar_url": "https://avatars.steamstatic.com/a.jpg"
+    },
+    "own": true,
+    "listed_at": "2026-11-01T12:00:00Z",
+    "item_slug": "ak-47-redline",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "rarity": "Classified",
+    "exterior": "FT",
+    "stattrak": true,
+    "souvenir": true
+  },
+  "stall_page": {
+    "seller": {
+      "steam_id": "76561198000000001",
+      "name": "Gabe",
+      "avatar_url": "https://avatars.steamstatic.com/a.jpg"
+    },
+    "lots": [
+      {
+        "id": "lot",
+        "price_cents": 1000,
+        "float": 0.123,
+        "paint_seed": 661,
+        "phase": "Phase 2",
+        "image_url": "https://community.steamstatic.com/icon",
+        "stickers": [
+          {
+            "id": 1,
+            "name": "Sticker | Crown",
+            "image_url": "https://community.steamstatic.com/sticker",
+            "slot": 1,
+            "wear": 0.5,
+            "scale": 1,
+            "rotation": 2,
+            "offset_x": 0.1,
+            "offset_y": 0.2,
+            "offset_z": 0.3,
+            "tint_id": 4,
+            "pattern": 5,
+            "highlight": 6
+          }
+        ],
+        "description": "Low float",
+        "max_discount": 10,
+        "seller": {
+          "steam_id": "76561198000000001",
+          "name": "Gabe",
+          "avatar_url": "https://avatars.steamstatic.com/a.jpg"
+        },
+        "own": true,
+        "listed_at": "2026-11-01T12:00:00Z",
+        "item_slug": "ak-47-redline",
+        "name": "AK-47 | Redline (Field-Tested)",
+        "rarity": "Classified",
+        "exterior": "FT",
+        "stattrak": true,
+        "souvenir": true
+      }
+    ],
+    "total": 1,
+    "page_size": 30
+  },
+  "stats": {
+    "sales_count": 1,
+    "sales_cents": 1000,
+    "purchases_count": 1,
+    "purchases_cents": 1000,
+    "net_cents": 1
+  },
+  "trade_order": {
+    "id": "019a5b3c-1234-7abc-8def-0123456789ab",
+    "number": "456789ab",
+    "status": "sent",
+    "asset_id": "100",
+    "name": "AK-47 | Redline (Field-Tested)",
+    "buyer_steam_id": "76561198000000002",
+    "trade_url": "https://steamcommunity.com/tradeoffer/new/?partner=1\u0026token=a",
+    "offer_id": "555",
+    "paid_at": "2026-11-01T12:00:00Z",
+    "actions": [
+      "close_offer"
+    ]
+  },
+  "watch": {
+    "reported_at": "2026-11-01T12:00:00Z",
+    "problem": "steam_signed_out",
+    "silent": true
+  },
+  "watch_problems": [
+    "steam_signed_out",
+    "steam_unavailable"
+  ]
+}

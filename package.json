@@ -1,0 +1,17 @@
+{
+  "name": "rockvel-extension",
+  "version": "0.5.0",
+  "description": "Rockvel browser extension: reads your CS2 inventory in your own browser, sends the Steam trade offers for your sales and follows them.",
+  "license": "MIT",
+  "repository": "github:Rockvel-cs2/extension",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc --outDir dist-firefox && node build.mjs",
+    "test": "node --test \"src/*.test.ts\""
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.3.7",
+    "typescript": "~6.0.2"
+  }
+}

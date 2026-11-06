@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Rockvel",
+  "version": "0.5.0",
+  "description": "Reads your CS2 inventory for Rockvel, sends the trade offers for your sales and follows them on Steam.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2FiaM9hrXrkED/YIW2nCiGQWyhmZnvSUbqfE+aQLPQRgzra4SRyAD4ti9AY38AE71/b/L0cMwtDtnlWtcNlwV+/yvm1c0iZBLoKufE+hMp0shXNIxEh6tQkTMXezoY9OH27yzKhn4Y08Xr8hY1D5XgYtkcNTu69fRUrrRb4uQjYcy6Xymx6JSDEBkLSBULmW1mnHHxQcgvb4UiD+gGpPuZa6t1bFsSfIPrC4gavlIKZjANLkY4seCT1a2J6hm4dqG6pWiW+D/Q4/funKQkimXqYsmx8wBQQx+x1ULrgy6pCXQVFbvRptJxvYMY8HcvC7rhdCKx3fZltSI1dVqxCfQIDAQAB",
+  "icons": { "128": "icon.png" },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": ["alarms", "declarativeNetRequestWithHostAccess", "notifications", "storage"],
+  "host_permissions": [
+    "https://steamcommunity.com/*",
+    "https://api.steampowered.com/*",
+    "https://rockvel.store/*",
+    "http://localhost:4000/*"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [{ "id": "steam_referer", "enabled": true, "path": "rules.json" }]
+  },
+  "externally_connectable": {
+    "matches": ["https://rockvel.store/*", "http://localhost:4000/*"]
+  }
+}
